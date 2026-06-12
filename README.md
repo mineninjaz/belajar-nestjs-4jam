@@ -1,4 +1,4 @@
-# belajar-nestjs-4jam
+# nestjs Instalation
 
 Langkah pertama yang harus kita lakukan adalah  Buka terminal di IDE atau CMD
 
